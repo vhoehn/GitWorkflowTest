@@ -5,7 +5,6 @@ namespace GitTest
 {
     public class Program
     {
-        // This is very complex and a lot of people work on that
         public static void Main(string[] args)
         {
             INameService nameService = new NameService();
