@@ -11,6 +11,9 @@ namespace GitTest
             Console.Write(nameService.GetName());
 
             Console.ReadKey();
+            ///
+            ///
+            /// 
         }
     }
 }

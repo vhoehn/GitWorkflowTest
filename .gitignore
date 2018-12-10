@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/GitTest/.vs/GitTest/v15/Server/sqlite3
+/GitTest/GitTest/obj
